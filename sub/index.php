@@ -3720,7 +3720,7 @@ if ($isTextHTML) {
                 },
                 fa: {
                     active: "فعال",
-                    limited: "تمام شده",
+                    limited: "حجم تمام شده",
                     expired: "پایان یافته",
                     disabled: "غیرفعال",
                     dataUsage: "میزان استفاده: ",
@@ -3748,7 +3748,7 @@ if ($isTextHTML) {
                     download: "دانلود",
                     telchannel: "کانال تلگرام",
                     telProxy: "پروکسی تلگرام",
-                    telsupport: "پشتیبانی تلگرام",
+                    telsupport: " پشتیبانی تلگرام استارلینک وی پی ان",
                     v2rayNG: "اندروید - دانلود برنامه v2rayNG",
                     NekoBox: "اندروید - دانلود برنامه NekoBox",
                     SingBox: "اندروید - دانلود برنامه Sing-Box",
